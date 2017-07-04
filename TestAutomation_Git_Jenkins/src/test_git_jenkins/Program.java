@@ -11,6 +11,7 @@ public class Program
 		System.out.println("This is first code");
 		System.out.println("multiplication:" + (a * b));
 		System.out.println("addition:" + (a + b));
+		System.out.println("subtraction:" + (a - b));
 
 	}
 
