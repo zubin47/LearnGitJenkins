@@ -13,12 +13,13 @@ public class Program
 		System.out.println("addition:" + (a + b));
 		System.out.println("subtraction:" + (a - b));
 		System.out.println("division:" + (a/b));
+		System.out.println("modulus:" + (a%b));
 
-		Calc(47);
+		Calc(Calc(47));
 		
 	}
 	
-	public static void Calc(int a)
+	public static int Calc(int a)
 	{
 		System.out.println(a);
 		
@@ -29,6 +30,7 @@ public class Program
 		
 		System.out.println(a);
 		
+		return a;
 	}
 
 	
