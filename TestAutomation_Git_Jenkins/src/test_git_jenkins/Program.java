@@ -5,8 +5,8 @@ public class Program
 
 	public static void main(String[] args) 
 	{
-		int a = 8;
-		int b = 8;
+		int a = 70;
+		int b = 35;
 		
 		System.out.println("This is first code");
 		System.out.println("multiplication:" + (a * b));
@@ -15,7 +15,7 @@ public class Program
 		System.out.println("division:" + (a/b));
 		System.out.println("modulus:" + (a%b));
 
-		Calc(Calc(47));
+		Calc(Calc(420));
 		
 	}
 	
