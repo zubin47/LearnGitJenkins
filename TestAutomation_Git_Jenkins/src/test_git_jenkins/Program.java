@@ -5,10 +5,10 @@ public class Program
 
 	public static void main(String[] args) 
 	{
-		int a = 70;
-		int b = 35;
+		int a = 120;
+		int b = 100;
 		
-		System.out.println("This is first code");
+		System.out.println("This is math project");
 		System.out.println("multiplication:" + (a * b));
 		System.out.println("addition:" + (a + b));
 		System.out.println("subtraction:" + (a - b));
