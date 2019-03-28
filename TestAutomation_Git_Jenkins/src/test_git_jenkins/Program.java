@@ -5,8 +5,8 @@ public class Program
 
 	public static void main(String[] args) 
 	{
-		int a = 120;
-		int b = 100;
+		int a = 11;
+		int b = 10;
 		
 		System.out.println("This is math project");
 		System.out.println("multiplication:" + (a * b));
